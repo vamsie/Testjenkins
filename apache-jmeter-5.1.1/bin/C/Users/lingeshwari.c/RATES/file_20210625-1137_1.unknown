@@ -1,0 +1,716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Top" />
+    </Style>
+    <Style ss:ID="s22">
+      <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+      <Font ss:Bold="1" />
+    </Style>
+    <Style ss:ID="s23">
+      <NumberFormat ss:Format="Currency" />
+    </Style>
+    <Style ss:ID="GRD">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="RSD">
+      <NumberFormat ss:Format="[$???]#,###,###,###.00;[Red]-[$???]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XPF">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="USD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SOS">
+      <NumberFormat ss:Format="[$S]#,###,###,###.00;[Red]-[$S]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="HTG">
+      <NumberFormat ss:Format="[$G]#,###,###,###.00;[Red]-[$G]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZMK">
+      <NumberFormat ss:Format="[$ZK]#,###,###,###.00;[Red]-[$ZK]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BSD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MWK">
+      <NumberFormat ss:Format="[$MK]#,###,###,###.00;[Red]-[$MK]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BTN">
+      <NumberFormat ss:Format="[$Nu.]#,###,###,###.00;[Red]-[$Nu.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MUR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="STD">
+      <NumberFormat ss:Format="[$Db]#,###,###,###.00;[Red]-[$Db]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TTD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TOP">
+      <NumberFormat ss:Format="[$T$]#,###,###,###.00;[Red]-[$T$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="UGX">
+      <NumberFormat ss:Format="[$USh]#,###,###,###.00;[Red]-[$USh]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="EUR">
+      <NumberFormat ss:Format="[$€]#,###,###,###.00;[Red]-[$€]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AOA">
+      <NumberFormat ss:Format="[$Kz]#,###,###,###.00;[Red]-[$Kz]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KRW">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MOP">
+      <NumberFormat ss:Format="[$MOP ]#,###,###,###.00;[Red]-[$MOP ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XPD">
+      <NumberFormat ss:Format="[$Pd]#,###,###,###.00;[Red]-[$Pd]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ALL">
+      <NumberFormat ss:Format="[$Lek]#,###,###,###.00;[Red]-[$Lek]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BDT">
+      <NumberFormat ss:Format="[$Tk]#,###,###,###.00;[Red]-[$Tk]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="COP">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="DOP">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ABC">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MVR">
+      <NumberFormat ss:Format="[$Rf]#,###,###,###.00;[Red]-[$Rf]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SGD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="WST">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="YYY">
+      <NumberFormat ss:Format="[$Y]#,###,###,###.00;[Red]-[$Y]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BAM">
+      <NumberFormat ss:Format="[$KM]#,###,###,###.00;[Red]-[$KM]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AUD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BWP">
+      <NumberFormat ss:Format="[$P]#,###,###,###.00;[Red]-[$P]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MXN">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CCC">
+      <NumberFormat ss:Format="[$Z]#,###,###,###.00;[Red]-[$Z]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TVD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SBD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BOB">
+      <NumberFormat ss:Format="[$$b]#,###,###,###.00;[Red]-[$$b]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CDF">
+      <NumberFormat ss:Format="[$FC]#,###,###,###.00;[Red]-[$FC]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="HNL">
+      <NumberFormat ss:Format="[$L]#,###,###,###.00;[Red]-[$L]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="FRF">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZWD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="VEF">
+      <NumberFormat ss:Format="[$Bs.]#,###,###,###.00;[Red]-[$Bs.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AWG">
+      <NumberFormat ss:Format="[$ƒ]#,###,###,###.00;[Red]-[$ƒ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KHR">
+      <NumberFormat ss:Format="[$KHR ]#,###,###,###.00;[Red]-[$KHR ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CRC">
+      <NumberFormat ss:Format="[$¢]#,###,###,###.00;[Red]-[$¢]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ROL">
+      <NumberFormat ss:Format="[$lei]#,###,###,###.00;[Red]-[$lei]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TWD">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BEF">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SKK">
+      <NumberFormat ss:Format="[$Sk]#,###,###,###.00;[Red]-[$Sk]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KWD">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PLN">
+      <NumberFormat ss:Format="[$zl]#,###,###,###.00;[Red]-[$zl]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LBP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GTQ">
+      <NumberFormat ss:Format="[$Q]#,###,###,###.00;[Red]-[$Q]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GBP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="DKK">
+      <NumberFormat ss:Format="[$KR]#,###,###,###.00;[Red]-[$KR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AZN">
+      <NumberFormat ss:Format="[$???]#,###,###,###.00;[Red]-[$???]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ESP">
+      <NumberFormat ss:Format="[$P]#,###,###,###.00;[Red]-[$P]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="OMR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="UAH">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TZS">
+      <NumberFormat ss:Format="[$TSh]#,###,###,###.00;[Red]-[$TSh]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BHD">
+      <NumberFormat ss:Format="[$BD]#,###,###,###.00;[Red]-[$BD]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="HUF">
+      <NumberFormat ss:Format="[$Ft]#,###,###,###.00;[Red]-[$Ft]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AED">
+      <NumberFormat ss:Format="[$AED]#,###,###,###.00;[Red]-[$AED]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="UYU">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ARS">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CZK">
+      <NumberFormat ss:Format="[$Kc]#,###,###,###.00;[Red]-[$Kc]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LUF">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XAU">
+      <NumberFormat ss:Format="[$Au]#,###,###,###.00;[Red]-[$Au]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="VAL">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SLL">
+      <NumberFormat ss:Format="[$Le]#,###,###,###.00;[Red]-[$Le]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PKR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CNY">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KES">
+      <NumberFormat ss:Format="[$KSh]#,###,###,###.00;[Red]-[$KSh]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MNT">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CNH">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LKR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SPL">
+      <NumberFormat ss:Format="[$SPL ]#,###,###,###.00;[Red]-[$SPL ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SSP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PYG">
+      <NumberFormat ss:Format="[$Gs]#,###,###,###.00;[Red]-[$Gs]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BYR">
+      <NumberFormat ss:Format="[$p.]#,###,###,###.00;[Red]-[$p.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SVC">
+      <NumberFormat ss:Format="[$¢]#,###,###,###.00;[Red]-[$¢]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="IEP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="JEP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="RWF">
+      <NumberFormat ss:Format="[$FRw]#,###,###,###.00;[Red]-[$FRw]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="RON">
+      <NumberFormat ss:Format="[$lei]#,###,###,###.00;[Red]-[$lei]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="VUV">
+      <NumberFormat ss:Format="[$VT]#,###,###,###.00;[Red]-[$VT]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="FJD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SIT">
+      <NumberFormat ss:Format="[$SIT]#,###,###,###.00;[Red]-[$SIT]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="HKD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KYD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LYD">
+      <NumberFormat ss:Format="[$LD]#,###,###,###.00;[Red]-[$LD]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MKD">
+      <NumberFormat ss:Format="[$???]#,###,###,###.00;[Red]-[$???]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KGS">
+      <NumberFormat ss:Format="[$??]#,###,###,###.00;[Red]-[$??]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NLG">
+      <NumberFormat ss:Format="[$Ÿ]#,###,###,###.00;[Red]-[$Ÿ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NOK">
+      <NumberFormat ss:Format="[$KR]#,###,###,###.00;[Red]-[$KR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GYD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ECS">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MZM">
+      <NumberFormat ss:Format="[$MT]#,###,###,###.00;[Red]-[$MT]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TRL">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CHF">
+      <NumberFormat ss:Format="[$CHF]#,###,###,###.00;[Red]-[$CHF]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AAA">
+      <NumberFormat ss:Format="[$B]#,###,###,###.00;[Red]-[$B]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NZD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MDL">
+      <NumberFormat ss:Format="[$lei]#,###,###,###.00;[Red]-[$lei]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BZD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BRL">
+      <NumberFormat ss:Format="[$R$]#,###,###,###.00;[Red]-[$R$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="DZD">
+      <NumberFormat ss:Format="[$DA]#,###,###,###.00;[Red]-[$DA]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CUP">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="INR">
+      <NumberFormat ss:Format="[$€]#,###,###,###.00;[Red]-[$€]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="EGP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GGP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="VEB">
+      <NumberFormat ss:Format="[$Bs.]#,###,###,###.00;[Red]-[$Bs.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="JPY">
+      <NumberFormat ss:Format="[$Po.]#,###,###,###.00;[Red]-[$Po.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BIF">
+      <NumberFormat ss:Format="[$FBu]#,###,###,###.00;[Red]-[$FBu]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ETB">
+      <NumberFormat ss:Format="[$Br.]#,###,###,###.00;[Red]-[$Br.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="JMD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LSL">
+      <NumberFormat ss:Format="[$L]#,###,###,###.00;[Red]-[$L]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="RUB">
+      <NumberFormat ss:Format="[$???]#,###,###,###.00;[Red]-[$???]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BIT">
+      <NumberFormat ss:Format="[$B]#,###,###,###.00;[Red]-[$B]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AMD">
+      <NumberFormat ss:Format="[$AMD ]#,###,###,###.00;[Red]-[$AMD ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BMD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LAK">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ANG">
+      <NumberFormat ss:Format="[$ƒ]#,###,###,###.00;[Red]-[$ƒ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GEL">
+      <NumberFormat ss:Format="[$GEL ]#,###,###,###.00;[Red]-[$GEL ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZMW">
+      <NumberFormat ss:Format="[$K]#,###,###,###.00;[Red]-[$K]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TND">
+      <NumberFormat ss:Format="[$DT]#,###,###,###.00;[Red]-[$DT]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="VND">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="DJF">
+      <NumberFormat ss:Format="[$Fdj]#,###,###,###.00;[Red]-[$Fdj]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ITL">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KZT">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LTL">
+      <NumberFormat ss:Format="[$Lt]#,###,###,###.00;[Red]-[$Lt]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CVE">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XOF">
+      <NumberFormat ss:Format="[$CFA]#,###,###,###.00;[Red]-[$CFA]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BND">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BRC">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TRY">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PHP">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZZZ">
+      <NumberFormat ss:Format="[$Z]#,###,###,###.00;[Red]-[$Z]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SHP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TMT">
+      <NumberFormat ss:Format="[$m]#,###,###,###.00;[Red]-[$m]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GHS">
+      <NumberFormat ss:Format="[$GH?]#,###,###,###.00;[Red]-[$GH?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZAR">
+      <NumberFormat ss:Format="[$R]#,###,###,###.00;[Red]-[$R]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MGF">
+      <NumberFormat ss:Format="[$Fmg]#,###,###,###.00;[Red]-[$Fmg]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="JOD">
+      <NumberFormat ss:Format="[$JD]#,###,###,###.00;[Red]-[$JD]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="QAR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SAR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XAG">
+      <NumberFormat ss:Format="[$Ag]#,###,###,###.00;[Red]-[$Ag]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SRG">
+      <NumberFormat ss:Format="[$ƒ]#,###,###,###.00;[Red]-[$ƒ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ERN">
+      <NumberFormat ss:Format="[$Nfk]#,###,###,###.00;[Red]-[$Nfk]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TJS">
+      <NumberFormat ss:Format="[$TJS]#,###,###,###.00;[Red]-[$TJS]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LVL">
+      <NumberFormat ss:Format="[$Ls]#,###,###,###.00;[Red]-[$Ls]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PEN">
+      <NumberFormat ss:Format="[$S/.]#,###,###,###.00;[Red]-[$S/.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="HRK">
+      <NumberFormat ss:Format="[$kn]#,###,###,###.00;[Red]-[$kn]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="THB">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MTL">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SZL">
+      <NumberFormat ss:Format="[$E]#,###,###,###.00;[Red]-[$E]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KMF">
+      <NumberFormat ss:Format="[$CF]#,###,###,###.00;[Red]-[$CF]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GIP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NPR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SEK">
+      <NumberFormat ss:Format="[$KR]#,###,###,###.00;[Red]-[$KR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MAD">
+      <NumberFormat ss:Format="[$DH]#,###,###,###.00;[Red]-[$DH]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NAD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ISK">
+      <NumberFormat ss:Format="[$KR]#,###,###,###.00;[Red]-[$KR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SCR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="UZS">
+      <NumberFormat ss:Format="[$??]#,###,###,###.00;[Red]-[$??]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CAD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MRO">
+      <NumberFormat ss:Format="[$UM]#,###,###,###.00;[Red]-[$UM]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SYP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="EEK">
+      <NumberFormat ss:Format="[$KR]#,###,###,###.00;[Red]-[$KR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XDR">
+      <NumberFormat ss:Format="[$SDR]#,###,###,###.00;[Red]-[$SDR]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AFN">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MRU">
+      <NumberFormat ss:Format="[$UM]#,###,###,###.00;[Red]-[$UM]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MGA">
+      <NumberFormat ss:Format="[$Ar]#,###,###,###.00;[Red]-[$Ar]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="AZM">
+      <NumberFormat ss:Format="[$AZM ]#,###,###,###.00;[Red]-[$AZM ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GNF">
+      <NumberFormat ss:Format="[$FG]#,###,###,###.00;[Red]-[$FG]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="TMM">
+      <NumberFormat ss:Format="[$T]#,###,###,###.00;[Red]-[$T]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PAB">
+      <NumberFormat ss:Format="[$B/.]#,###,###,###.00;[Red]-[$B/.]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MMK">
+      <NumberFormat ss:Format="[$K]#,###,###,###.00;[Red]-[$K]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ILS">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BBD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CYP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NIO">
+      <NumberFormat ss:Format="[$C$]#,###,###,###.00;[Red]-[$C$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="IRR">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="IDR">
+      <NumberFormat ss:Format="[$Rp]#,###,###,###.00;[Red]-[$Rp]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="FKP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="NGN">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="YER">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BGN">
+      <NumberFormat ss:Format="[$??]#,###,###,###.00;[Red]-[$??]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="IQD">
+      <NumberFormat ss:Format="[$IQD]#,###,###,###.00;[Red]-[$IQD]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SDG">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MZN">
+      <NumberFormat ss:Format="[$MT]#,###,###,###.00;[Red]-[$MT]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="MYR">
+      <NumberFormat ss:Format="[$RM]#,###,###,###.00;[Red]-[$RM]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="PGK">
+      <NumberFormat ss:Format="[$K]#,###,###,###.00;[Red]-[$K]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XEU">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XPT">
+      <NumberFormat ss:Format="[$Pt]#,###,###,###.00;[Red]-[$Pt]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="KPW">
+      <NumberFormat ss:Format="[$?]#,###,###,###.00;[Red]-[$?]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="CLP">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="GMD">
+      <NumberFormat ss:Format="[$D]#,###,###,###.00;[Red]-[$D]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SRD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="SDD">
+      <NumberFormat ss:Format="[$LSd]#,###,###,###.00;[Red]-[$LSd]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XAF">
+      <NumberFormat ss:Format="[$XAF ]#,###,###,###.00;[Red]-[$XAF ]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="ZWN">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="XCD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="BBB">
+      <NumberFormat ss:Format="[$Y]#,###,###,###.00;[Red]-[$Y]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="IMP">
+      <NumberFormat ss:Format="[$£]#,###,###,###.00;[Red]-[$£]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="LRD">
+      <NumberFormat ss:Format="[$$]#,###,###,###.00;[Red]-[$$]#,###,###,###.00" />
+    </Style>
+    <Style ss:ID="s24">
+      <NumberFormat ss:Format="Percent" />
+    </Style>
+    <Style ss:ID="s25">
+      <Alignment ss:WrapText="1" ss:Vertical="Top" />
+    </Style>
+    <Style ss:ID="s26">
+      <NumberFormat ss:Format="0.################" />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Sheet">
+    <Table>
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Column ss:Width="100" />
+      <Row ss:StyleID="s22">
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Timekeeper</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">Vendor/Firm</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Network Role</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="String">Days in Queue</Data>
+        </Cell>
+        <Cell ss:Index="5">
+          <Data ss:Type="String">Current Bill Rate</Data>
+        </Cell>
+        <Cell ss:Index="6">
+          <Data ss:Type="String">Proposed Bill Rate</Data>
+        </Cell>
+        <Cell ss:Index="7">
+          <Data ss:Type="String">Effective Period Start</Data>
+        </Cell>
+        <Cell ss:Index="8">
+          <Data ss:Type="String">Effective Period End</Data>
+        </Cell>
+        <Cell ss:Index="9">
+          <Data ss:Type="String">Commercial Rate</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">2, ASP2</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">Tymetrix360</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Help Desk Support (System Admin)</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="Number">74</Data>
+        </Cell>
+        <Cell ss:StyleID="CAD" ss:Index="6">
+          <Data ss:Type="Number">1.000000000</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:Index="1">
+          <Data ss:Type="String">Turner, Vera</Data>
+        </Cell>
+        <Cell ss:Index="2">
+          <Data ss:Type="String">Bachman, Turner &amp; Associates</Data>
+        </Cell>
+        <Cell ss:Index="3">
+          <Data ss:Type="String">Billing Administrator</Data>
+        </Cell>
+        <Cell ss:Index="4">
+          <Data ss:Type="Number">1042</Data>
+        </Cell>
+        <Cell ss:StyleID="USD" ss:Index="6">
+          <Data ss:Type="Number">49.000000000</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

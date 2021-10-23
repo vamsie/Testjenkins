@@ -1,0 +1,13 @@
+{
+  "repositories" : [ {
+    "name" : "central",
+    "url" : "https://raw.githubusercontent.com/Blazemeter/CorrelationsRecorderTemplates/master/central/central-repository.json",
+    "installedTemplates" : { }
+  }, {
+    "name" : "local",
+    "url" : "D:\\apache-jmeter-5.1.1\\apache-jmeter-5.1.1/correlation-templates/local-repository.json",
+    "installedTemplates" : {
+      "siebel" : "1.0"
+    }
+  } ]
+}

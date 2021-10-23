@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="play.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT play.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="play.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT play.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="pdx-col.eum-appdynamics.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT pdx-col.eum-appdynamics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="web-d1.dev.wkelms.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT web-d1.dev.wkelms.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="play.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT play.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="pdx-col.eum-appdynamics.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT pdx-col.eum-appdynamics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="pdx-col.eum-appdynamics.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT pdx-col.eum-appdynamics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="web-d1.dev.wkelms.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT web-d1.dev.wkelms.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="pdx-col.eum-appdynamics.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT pdx-col.eum-appdynamics.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="outlook.office.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT outlook.office.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="eastus2-prod-2.notifications.teams.microsoft.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT eastus2-prod-2.notifications.teams.microsoft.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="eastus2-prod-2.notifications.teams.microsoft.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT eastus2-prod-2.notifications.teams.microsoft.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="beacons.gcp.gvt2.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="eastus2-prod-2.notifications.teams.microsoft.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT eastus2-prod-2.notifications.teams.microsoft.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="web-d1.dev.wkelms.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="794" sc="1" ec="1" ng="0" na="0" hn="ATMECSINLT-257">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT web-d1.dev.wkelms.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+</testResults>
